@@ -1,6 +1,6 @@
 # Automação de envio de e-mail (GMAIL) via Python
 
-  <p> A automação tem como objetivo, o disparo de e-mail <b>(Google Gmail)</b>, via script python. </p>
+  <p> A automação tem como objetivo, o disparo de múltiplos e-mail <b>(Google Gmail)</b>, via script python. </p>
 
 # Preparação
   
